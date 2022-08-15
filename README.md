@@ -11,4 +11,4 @@ train the dataset using SegNet model.
 
 we are using Adam optimizer to train the network.
 
-Here we are calculating the accuracy with respect to NLL loss with DICE loss.
+Here we are calculating the accuracy with respect to NLL loss with DICE loss and test metric as DICE score
