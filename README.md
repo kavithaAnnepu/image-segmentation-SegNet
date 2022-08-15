@@ -3,7 +3,7 @@
 image segmentation using SegNet architecture.To know about SegNet see the follow link.
 [https://arxiv.org/abs/1511.00561 ]
 
-Download the dataset.
+Download the dataset(DRIVE_seg).
 
 model the SegNet model.
 
